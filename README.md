@@ -9,9 +9,7 @@ A Flutter application for managing your grocery shopping list. This app allows y
 - Clean and intuitive user interface
 - Firebase Realtime Database integration for data persistence
 
-## Screenshots
 
-[Add screenshots of your app here]
 
 ## Installation
 
