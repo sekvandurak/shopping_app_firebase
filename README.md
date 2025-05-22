@@ -64,7 +64,7 @@ This app uses Firebase Realtime Database for data storage. To protect sensitive 
 
 - Flutter
 - http - For making API requests to Firebase
-- [Other dependencies your app uses]
+
 
 ## Contributing
 
@@ -72,5 +72,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Specify your license here]
+@Sekvan Durak
 
